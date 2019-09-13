@@ -11,6 +11,9 @@ my .files
 # neovim (https://github.com/neovim/neovim)
 brew install neovim
 
+# ACK (https://github.com/ggreer/the_silver_searcher
+brew install the_silver_searcher
+
 # plugin manager (https://github.com/junegunn/vim-plug)
 Install
 curl -fLo ~/.local/share/nvim/site/autoload/plug.vim --create-dirs \
