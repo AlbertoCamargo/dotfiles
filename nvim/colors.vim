@@ -95,8 +95,8 @@ call s:Col('CursorColumn', '', 'black')
 " Sign column, line numbers.
 call s:Col('LineNr', 'gray', s:linenr_background)
 call s:Col('CursorLineNr', 'pink', s:linenr_background)
-call s:Col('SignColumn', '', s:linenr_background)
-call s:Col('ColorColumn', '', s:linenr_background)
+call s:Col('SignColumn', 'pink', s:linenr_background)
+call s:Col('ColorColumn', 'gray', s:linenr_background)
 
 " Visual selection.
 call s:Col('Visual', '', 'blue')
