@@ -9,8 +9,7 @@ set number
 " - Show the relative distance to the current line
 set relativenumber
 
-
-" use sytem and vim clipboard
+" use the clipboards of vim and win
 set clipboard+=unnamed
 
 " ### Nerdtree Configuration ###
