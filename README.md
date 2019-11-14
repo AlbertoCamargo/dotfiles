@@ -47,3 +47,11 @@ source  ~/.config/nvim/plugin_manager.vim
 source ~/.config/nvim/key_mappings.vim
 
 ```
+
+# Sync
+cp -R nvim  /Users/acamargo/Documents/code/personal/dotfiles/
+cp ~/.tmux.conf tmux.conf
+
+NOTES:
+MAP mayus/lockcaps to Ctrl
+
