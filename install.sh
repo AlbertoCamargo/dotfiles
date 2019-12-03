@@ -1,3 +1,4 @@
+# set permissions for brew
 sudo chown -R $(whoami) /usr/local/lib/pkgconfig
 chmod u+w /usr/local/lib/pkgconfig
 
