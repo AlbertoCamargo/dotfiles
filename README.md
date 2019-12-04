@@ -11,6 +11,9 @@ my .files
 # neovim (https://github.com/neovim/neovim)
 brew install neovim
 
+# ACK (https://github.com/ggreer/the_silver_searcher
+brew install the_silver_searcher
+
 # plugin manager (https://github.com/junegunn/vim-plug)
 Install
 curl -fLo ~/.local/share/nvim/site/autoload/plug.vim --create-dirs \
@@ -44,3 +47,11 @@ source  ~/.config/nvim/plugin_manager.vim
 source ~/.config/nvim/key_mappings.vim
 
 ```
+
+# Sync
+cp -R nvim  /Users/acamargo/Documents/code/personal/dotfiles/
+cp ~/.tmux.conf tmux.conf
+
+NOTES:
+MAP mayus/lockcaps to Ctrl
+
