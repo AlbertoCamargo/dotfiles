@@ -1,25 +1,9 @@
 # Dotfiles
 
-.dotfiles? no, it is even more...
+.dotfiles? no, this is even more...
 
 # Why am I doing this?
 
-
-I want to have a backup of my personal setup
-
-# Why public?
-
-Hard question... 
-
-But I think that it is because the open information (internet, easily access information) had have a lot benefics for many people, and i think that i have received a lot but i haven't given too much...
-
-And also maybe because the fact that i will show "something personal" promote some more and differents emotions 
-
-Look around... 
-
-Chismosea... 
-
-Do whatever you want to, ¿y por qué no? Un aporte hecho de la manera que debería ser (In a constructive way)
 
 # Software: Armamento básico
 
